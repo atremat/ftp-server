@@ -19,6 +19,9 @@
     "nodemon": "^3.1.4"
   },
   "dependencies": {
-    "ftp-srv": "^2.16.2"
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "ftpd": "^0.2.16",
+    "path": "^0.12.7"
   }
 }
